@@ -5,7 +5,7 @@ topic with small, runnable projects. I commit after finishing each one.
 
 ## Roadmap & Progress
 
-- [ ] **00 — Python basics** (variables, loops, functions)
+- [x] **00 — Python basics** (variables, loops, functions) ✅ done
 - [ ] **01 — NumPy** (arrays, the math behind ML)
 - [ ] **02 — Pandas** (loading and exploring real data)
 - [ ] **03 — First ML model** (scikit-learn classifier)
