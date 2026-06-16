@@ -63,11 +63,14 @@ Math Aiml/
 - [x] 00 — Python basics (lessons 01–10 complete: hello, variables, math,
       input, conditionals, loops, lists/dicts, functions, strings/f-strings,
       list comprehensions)
-- [ ] 01 — NumPy (arrays, the math behind ML)
-- [ ] 02 — Pandas (loading and exploring real data)
-- [ ] 03 — First ML model (scikit-learn classifier)
-- [ ] 04 — Train & evaluate (train/test split, accuracy, plots)
-- [ ] 05 — End-to-end mini-project
+- [ ] 01 — Math for ML (statistics, linear algebra, a little calculus). Taught
+      with plain-Python scripts that compute the math by hand. In progress:
+      01_statistics.py done (mean, median, mode, variance, std dev).
+- [ ] 02 — NumPy (arrays, the math behind ML)
+- [ ] 03 — Pandas (loading and exploring real data)
+- [ ] 04 — First ML model (scikit-learn classifier)
+- [ ] 05 — Train & evaluate (train/test split, accuracy, plots)
+- [ ] 06 — End-to-end mini-project
 
 ## Environment
 

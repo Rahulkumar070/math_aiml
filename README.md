@@ -6,11 +6,12 @@ topic with small, runnable projects. I commit after finishing each one.
 ## Roadmap & Progress
 
 - [x] **00 — Python basics** (variables, loops, functions) ✅ done
-- [ ] **01 — NumPy** (arrays, the math behind ML)
-- [ ] **02 — Pandas** (loading and exploring real data)
-- [ ] **03 — First ML model** (scikit-learn classifier)
-- [ ] **04 — Train & evaluate** (accuracy, train/test split, plots)
-- [ ] **05 — Mini-project** (an end-to-end project on a dataset I like)
+- [ ] **01 — Math for ML** (statistics, linear algebra, a little calculus)
+- [ ] **02 — NumPy** (arrays, the math behind ML)
+- [ ] **03 — Pandas** (loading and exploring real data)
+- [ ] **04 — First ML model** (scikit-learn classifier)
+- [ ] **05 — Train & evaluate** (accuracy, train/test split, plots)
+- [ ] **06 — Mini-project** (an end-to-end project on a dataset I like)
 
 ## How to run anything in this repo
 
